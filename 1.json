@@ -1,0 +1,21 @@
+{
+  "name": "name",
+  "conatact": [{
+    "email": "email",
+    "phone_number": "phone_number"
+  }],
+  "about_me": "about_me",
+  "education": [{
+    "name": "name",
+    "study_year": "2000-2001",
+    "programm": "teacher"
+  }],
+  "skills" : [],
+  "experience": [
+    {
+      "name": "name",
+      "years": "2002-2006",
+      "successes": []
+    }
+  ]
+}
